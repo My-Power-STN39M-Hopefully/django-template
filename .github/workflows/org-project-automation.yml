@@ -9,7 +9,7 @@ env:
 jobs:
   assign_one_project:
     runs-on: ubuntu-latest
-    name: 'Assign to Master project: Cassio is Great Indeed'
+    name: 'Assign to 38M Master project'
     steps:
     - name: Assign NEW issues and pull request to 39M main project
       uses: srggrs/assign-one-project-github-action@1.2.0
