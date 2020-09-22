@@ -16,4 +16,4 @@ jobs:
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: github.event.action == 'opened'
       with:
-        project: 'https://github.com/My-Power-STN39M-Hopefully/base-template/projects/1'
+        project: 'https://github.com/My-Power-STN39M-Hopefully/django-template/projects/1'
